@@ -4,4 +4,4 @@ Complete Documentation - [CLICK HERE](https://medium.com/@pklappy21/movie-recomm
 
 
 
-Deployed Web Application - [CLICK HERE](https://recmovie.herokuapp.com/)
+Deployed Web Application - [CLICK HERE](https://shubdab.herokuapp.com/)
